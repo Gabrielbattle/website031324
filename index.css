@@ -1,6 +1,7 @@
 body {background-color:#282828;}
 h1 {color:#FEA10B;}
-h4 {color:#FEA10B;}
+h4 {color:#FEA10B;text-decoration:underline;
+text-decoration-style:dotted;}
 p {color:#CBBD9C;}
 
 a:link {
